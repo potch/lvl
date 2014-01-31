@@ -14,6 +14,10 @@
     "es6-promise": "0.1.1",
     "level": "*"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/potch/lvl.git"
+  },
   "readme": "ERROR: No README data found!",
   "_id": "lvl@0.0.2",
   "dist": {
