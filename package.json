@@ -1,6 +1,6 @@
 {
   "name": "lvl",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Promise wrapper around leveldb",
   "main": "index.js",
   "scripts": {
@@ -12,14 +12,13 @@
   "license": "BSD-2-Clause",
   "dependencies": {
     "es6-promise": "0.1.1",
-    "level": "*"
+    "level": "0.18.0"
   },
   "repository": {
     "type": "git",
     "url": "git://github.com/potch/lvl.git"
   },
   "readme": "ERROR: No README data found!",
-  "_id": "lvl@0.0.2",
   "dist": {
     "shasum": "9f0dc537fea125c10ff08b5e8949328eaea0fbf2"
   },
