@@ -1,6 +1,6 @@
 {
   "name": "lvl",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Promise wrapper around leveldb",
   "main": "index.js",
   "scripts": {
